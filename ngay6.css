@@ -1,0 +1,57 @@
+* {
+  margin: 0px;
+  padding: 0px;
+}
+.container {
+  width: 100%;
+  margin: auto;
+  background-color: wheat;
+}
+.register-form {
+  display: flex;
+}
+.form {
+  width: 50%;
+  padding: 50px;
+  margin: 20px;
+  display: flex;
+  margin: auto;
+  background-color: white;
+}
+.formRegister {
+  width: 50%;
+}
+.hinh {
+  width: 50%;
+  padding: 70px;
+  margin: 20px;
+}
+.form1 {
+  display: flex;
+  width: 100%;
+  border-bottom: 1px solid black;
+  margin: 20px;
+}
+.form input {
+  border: none;
+  outline: none;
+}
+.chon {
+  padding: 10px;
+}
+.re {
+  padding: 20px;
+}
+.fromcua2{
+margin-top: 20px;
+padding: 20px;
+}
+.form2 {
+  width: 50%;
+  padding: 10px;
+  margin: 20px;
+  display: flex;
+  margin: auto;
+  background-color: whitesmoke;
+}
+
